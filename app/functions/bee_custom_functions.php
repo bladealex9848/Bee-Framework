@@ -17,6 +17,7 @@ function en_custom() {
 function get_coins() {
   return 
   [
+    'COP',
     'MXN',
     'USD',
     'CAD',

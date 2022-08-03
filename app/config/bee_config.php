@@ -14,10 +14,10 @@ define('IS_DEMO'      , false);
 // Set para conexión en producción o servidor real
 define('DB_ENGINE'    , 'mysql');
 define('DB_HOST'      , 'localhost');
-define('DB_NAME'      , '___REMOTE DB___');
-define('DB_USER'      , '___REMOTE DB___');
-define('DB_PASS'      , '___REMOTE DB___');
-define('DB_CHARSET'   , '___REMOTE CHARTSET___');
+define('DB_NAME'      , 'u4_p1_db');
+define('DB_USER'      , 'root');
+define('DB_PASS'      , '');
+define('DB_CHARSET'   , 'utf8');
 
 /** Extra constants to be used */
 
